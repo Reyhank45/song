@@ -1,8 +1,11 @@
-##An OpenSource Song Project
+## An OpenSource Song Project
+
 yes it's open source haven't heard of it?
 
-##How to Contribute :
+## How to Contribute :
+
 just create a Pull Request that's it.
 
-##Genre :
+## Genre :
+
 Hmm about this IDK it's up to the community 
