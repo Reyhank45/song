@@ -1,6 +1,6 @@
 ## An OpenSource Song Project
 
-yes it's open source haven't heard of it?
+yes it's OpenSource haven't heard of it?
 
 ## How to Contribute :
 
